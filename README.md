@@ -73,3 +73,5 @@ O **Ubuntu** foi escolhido por sua facilidade de uso, compatibilidade com as fer
 - **Documentação:** Adicionar vídeos ou tutoriais interativos pode melhorar a compreensão.
 
 O projeto foi uma ótima oportunidade para aprender sobre virtualização e configurar um ambiente educacional eficaz!.
+
+https://docs.google.com/document/d/1OJdF8sDh7OGCOYokS_JustzV-biuZ8DcQPUniikku8o/edit?tab=t.0
