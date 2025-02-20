@@ -1,10 +1,10 @@
-# Montagem e Configuração de Ambiente Virtual Educacional
+# Montagem e Configuração de Ambiente Virtual Educacional🧑‍💻
 
 ### Desenvolver um ambiente virtual educacional para a execução de softwares como MySQL, Node.js e Python, com foco em ensino e desenvolvimento.
 
  ### O projeto envolve a escolha e montagem de um computador físico com orçamento de até R$ 5.000,00, a criação de uma máquina virtual utilizando o VirtualBox e a instalação de um sistema operacional Linux. O objetivo é fornecer uma plataforma estável para testes e aprendizagem, além de produzir uma documentação detalhada com o processo de instalação e configuração do ambiente.
 
-# Levantamento de Requisitos
+# Levantamento de Requisitos🧑‍💼
 
 ## Requisitos para o Computador Físico:
 - **Processador (CPU):** 4 núcleos ou mais, com velocidade mínima de 3.0 GHz.
@@ -14,11 +14,10 @@
 - **Fonte de Alimentação:** 500W ou mais, adequada para os componentes.
 - **Teclado e Mouse:** Equipamentos básicos e confortáveis.
 - **Monitor:** 21 polegadas, resolução Full HD (1920x1080).
-# Orçamento dos Componentes para o Computador Físico
 
 
 
-# Orçamento dos Componentes para o Computador Físico
+# Orçamento dos Componentes para o Computador Físico📈
 
 | **Componente**        | **Produto**                                  | **Link**                                                      | **Justificativa**                                                                 |
 |-----------------------|----------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -38,22 +37,21 @@
 - **Armazenamento:** 50 GB ou mais de disco rígido virtual.
 - **Conectividade:** Rede configurada em modo NAT ou Bridge para acesso à internet.
 
-# Escolha do Sistema Operacional: Justificativa e Comparação
+# Escolha do Sistema Operacional: Justificativa e Comparação🤖
 
 **Distribuições Pesquisadas:**
 
 - **Ubuntu:** Facilidade de uso, grande comunidade, e fácil instalação. Suporte completo para MySQL, Node.js e Python. Ideal para iniciantes.
 - **Debian:** Muito estável e seguro, mas menos amigável para iniciantes e configuração mais complexa.
-- **CentOS:** Estável, mas a versão CentOS Stream pode ser incompatível com algumas ferramentas de desenvolvimento.
 - **Fedora:** Oferece pacotes mais recentes, mas consome mais recursos e pode ser menos estável.
 
 **Justificativa da Escolha:**
-O **Ubuntu** foi escolhido por sua facilidade de uso, compatibilidade com as ferramentas (MySQL, Node.js, Python), grande suporte da comunidade e ampla documentação, sendo a melhor opção para fins educacionais e iniciantes.
-# Guia Rápido de Instalação do Ubuntu
+O **Ubuntu** foi escolhido por sua facilidade de uso, compatibilidade com as ferramentas (MySQL, Node.js, Python), grande suporte da comunidade e ampla documentação, sendo a melhor opção para fins educacionais e iniciantes, porem as três citadas foram testadas
+# Guia Rápido de Instalação do Ubuntu🌐
 
 1. **Instale o VirtualBox** e baixe a ISO do Ubuntu.
-2. **Crie uma Máquina Virtual** no VirtualBox com 8 GB de RAM e 50 GB de disco.
-3. **Configure a Rede** para "NAT" para acesso à internet.
+2. **Crie uma Máquina Virtual** no VirtualBox com 4 GB de RAM e 40 GB de disco.
+3. **Configure a Rede** para "NAT" para acesso à internet (escolha nossa).
 4. **Inicie a Máquina Virtual**, selecione a ISO do Ubuntu e siga o assistente de instalação.
 5. **Finalize a Instalação**, reinicie e remova a ISO.
 6. **Verifique a instalação** com os comandos no terminal:
@@ -62,16 +60,16 @@ O **Ubuntu** foi escolhido por sua facilidade de uso, compatibilidade com as fer
    node -v
    python3 --version
    # Considerações Finais
-# Considerações Finais
+# Considerações Finais👨‍🏫
 
-## Lições Aprendidas
+## Lições Aprendidas🧑‍💼
 - **Planejamento de Requisitos:** A definição dos requisitos foi essencial para garantir um bom desempenho do ambiente virtual.
 - **Configuração da VM:** O VirtualBox facilitou a criação, mas ajustes detalhados são necessários para otimizar o desempenho.
 - **Escolha do Ubuntu:** O Ubuntu foi a melhor opção devido à sua facilidade de uso e suporte aos softwares necessários.
 
-## Sugestões de Melhoria
-- **Otimização:** Usar versões mais leves do Ubuntu (Xubuntu ou Lubuntu) pode ajudar em máquinas com hardware limitado.
+## Sugestões de Melhoria🤓☝️
+- **Otimização:** Usar versões mais leves do Ubuntu pode ajudar em máquinas com hardware limitado.
 - **Automatização:** Criar scripts para instalar os softwares necessários pode agilizar o processo.
 - **Documentação:** Adicionar vídeos ou tutoriais interativos pode melhorar a compreensão.
 
-O projeto foi uma ótima oportunidade para aprender sobre virtualização e configurar um ambiente educacional eficaz.
+O projeto foi uma ótima oportunidade para aprender sobre virtualização e configurar um ambiente educacional eficaz!.
